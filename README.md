@@ -17,4 +17,5 @@ description: 文档说明：简介/进度/格式
 * [ ] dart
 * [ ] go
 * [ ] rust
+* [ ] shell
 
